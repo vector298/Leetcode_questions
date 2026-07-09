@@ -14,6 +14,7 @@ I submit my leetcode solutions here
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vector298/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vector298/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -31,4 +32,8 @@ I submit my leetcode solutions here
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vector298/Leetcode_questions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vector298/Leetcode_questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
