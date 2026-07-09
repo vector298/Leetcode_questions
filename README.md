@@ -27,4 +27,8 @@ I submit my leetcode solutions here
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vector298/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vector298/Leetcode_questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
