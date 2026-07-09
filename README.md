@@ -10,6 +10,7 @@ I submit my leetcode solutions here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vector298/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vector298/Leetcode_questions/tree/master/0198-house-robber) |
 ## Stack
 |  |
@@ -32,8 +33,13 @@ I submit my leetcode solutions here
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vector298/Leetcode_questions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/vector298/Leetcode_questions/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vector298/Leetcode_questions/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vector298/Leetcode_questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
