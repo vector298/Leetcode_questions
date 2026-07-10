@@ -48,4 +48,12 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vector298/Leetcode_questions/tree/master/0055-jump-game) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/vector298/Leetcode_questions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/vector298/Leetcode_questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
