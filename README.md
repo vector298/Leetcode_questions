@@ -6,10 +6,12 @@ I submit my leetcode solutions here
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vector298/Leetcode_questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/vector298/Leetcode_questions/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vector298/Leetcode_questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vector298/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vector298/Leetcode_questions/tree/master/0198-house-robber) |
 ## Stack
@@ -42,4 +44,8 @@ I submit my leetcode solutions here
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vector298/Leetcode_questions/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/vector298/Leetcode_questions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
