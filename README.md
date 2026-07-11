@@ -8,6 +8,7 @@ I upload my leetcode solutions here
 | ------- |
 | [0055-jump-game](https://github.com/vector298/Leetcode_questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/vector298/Leetcode_questions/tree/master/0198-house-robber) |
+| [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,20 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/vector298/Leetcode_questions/tree/master/0061-rotate-list) |
+## Hash Table
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
