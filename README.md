@@ -6,6 +6,7 @@ I upload my leetcode solutions here
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vector298/Leetcode_questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/vector298/Leetcode_questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/vector298/Leetcode_questions/tree/master/0198-house-robber) |
 | [0977-squares-of-a-sorted-array](https://github.com/vector298/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,4 +86,8 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/vector298/Leetcode_questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
