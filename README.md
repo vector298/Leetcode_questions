@@ -54,6 +54,7 @@ I upload my leetcode solutions here
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vector298/Leetcode_questions/tree/master/0020-valid-parentheses) |
 ## Memoization
 |  |
@@ -76,6 +77,7 @@ I upload my leetcode solutions here
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -102,4 +104,8 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vector298/Leetcode_questions/tree/master/0100-same-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
