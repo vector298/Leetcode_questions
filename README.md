@@ -70,6 +70,7 @@ I upload my leetcode solutions here
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vector298/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/vector298/Leetcode_questions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vector298/Leetcode_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Two Pointers
@@ -87,6 +88,7 @@ I upload my leetcode solutions here
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vector298/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
