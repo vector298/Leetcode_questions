@@ -9,6 +9,7 @@ I upload my leetcode solutions here
 | [0046-permutations](https://github.com/vector298/Leetcode_questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/vector298/Leetcode_questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/vector298/Leetcode_questions/tree/master/0198-house-robber) |
+| [0496-next-greater-element-i](https://github.com/vector298/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/vector298/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vector298/Leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -25,6 +26,7 @@ I upload my leetcode solutions here
 | [0094-binary-tree-inorder-traversal](https://github.com/vector298/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vector298/Leetcode_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vector298/Leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/vector298/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -78,6 +80,7 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/vector298/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -108,4 +111,8 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vector298/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
