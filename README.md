@@ -58,6 +58,7 @@ I upload my leetcode solutions here
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vector298/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/vector298/Leetcode_questions/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
 | ------- |
@@ -80,6 +81,7 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/vector298/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/vector298/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
@@ -89,6 +91,7 @@ I upload my leetcode solutions here
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vector298/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/vector298/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vector298/Leetcode_questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
