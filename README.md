@@ -59,6 +59,7 @@ I upload my leetcode solutions here
 | [0003-longest-substring-without-repeating-characters](https://github.com/vector298/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vector298/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vector298/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vector298/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -77,6 +78,7 @@ I upload my leetcode solutions here
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/vector298/Leetcode_questions/tree/master/0061-rotate-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vector298/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vector298/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
